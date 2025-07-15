@@ -27,7 +27,7 @@ next_btn.addEventListener("click", () => {
   } else { 
     n = 0;
   }
-  changeSlide();
+  changeSlide();ojjd
 });
 
 // Horizontal Scrollbar
