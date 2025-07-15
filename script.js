@@ -8,7 +8,7 @@ function changeSlide() {
   for (let i = 0; i < imgs.length; i++) {
     //for loop//
     imgs[i].style.display = "none";
-  }
+  }c
   imgs[n].style.display = "block";
 }
 changeSlide();
